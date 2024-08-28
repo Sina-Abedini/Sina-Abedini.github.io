@@ -421,7 +421,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background:  url('assets/img/website background.jpg') top right;
+  background: url('assets/img/website background.jpg') top right;
   background-size: cover;
 }
 
