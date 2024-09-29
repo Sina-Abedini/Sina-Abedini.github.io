@@ -595,7 +595,7 @@ section {
 --------------------------------------------------------------*/
 .about {
   background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), 
-              url('r2.jpg') no-repeat center center;
+              url('assets/img/r2.jpg') no-repeat center center;
   background-size: cover;
   padding: 50px 0; /* Adjust padding as needed */
 }
